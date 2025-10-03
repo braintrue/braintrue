@@ -28,9 +28,9 @@
 
 ## 📫 Contact
 
-- ✉️ Email: changseop.yeom@gmail.com  
-- 🌐 Blog: [braintrue.dev](https://braintrue.dev) *(예시 URL, 원하시면 수정 가능)*  
-- 🐦 Twitter: [@braintrue](https://twitter.com/braintrue)
+- ✉️ Email:ckdtjqdlgh@gmail.com  
+- 🌐 Linkedin: https://www.linkedin.com/in/changseop-yeom-51589522a/
+
 
 ---
 
